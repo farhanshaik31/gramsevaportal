@@ -1,9 +1,9 @@
-Images Create Chey
+Images Create 
 
-images folder lo:
+images folder :
 
 gallery1.jpg
 gallery2.jpg
 gallery3.jpg
 
-add chey.
+add itt.
